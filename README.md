@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shyam3017
+- 👋 Hi, I’m Shyam 
 - 👀 I’m interested in python programming, web development and mobile application development
-- 🌱 I’m currently pursuing my UG degree in bharath university and I'm currently learning python   
+- 🌱 I’m currently pursuing my UG degree in Bharath university and I'm currently learning python   
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me if you are also interseted in python programming my email ID chimatashyam123@gmail.com 
 
